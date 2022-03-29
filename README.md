@@ -1,3 +1,3 @@
 # online-blood-bank-management-system-in-php
 
-Hi Frands !
+Chai pilo frands
